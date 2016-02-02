@@ -1,8 +1,0 @@
-tile.pulverblock.name=SMASH!!!
-tile.furnaceblock.name=BURN!!!
-
-container.FurnaceBlock.name=BURN!!!
-container.PulverBlock.name=SMASH!!!
-
-item.irondust.name=Iron Dust
-item.golddust.name=Gold Dust
